@@ -3,7 +3,7 @@
 height = input('請輸入身高(公分)')
 weight = input('請輸入體重(公斤)')
 
-#型別轉換
+#型別轉換:將字串string轉為浮點數float
 height = float(height)
 weight = float(weight)
 
